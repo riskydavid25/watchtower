@@ -1,0 +1,4 @@
+Name,IP,Location,RTSP_Port
+GATE-01,192.168.1.101,Site A - Main Gate,554
+LOBBY-CAM,192.168.1.102,Site A - Lobby,554
+WAREHOUSE-OUT,192.168.1.201,Site B - Warehouse Exit,554

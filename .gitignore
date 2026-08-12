@@ -1,0 +1,20 @@
+# Konfigurasi & data nyata — JANGAN pernah commit
+config.json
+cctv_list.csv
+cctv_state.json
+
+# Runtime / cache
+__pycache__/
+*.pyc
+nohup.out
+
+# Logs
+*.log
+*.log.*.gz
+cron.log
+
+# Editor/OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
