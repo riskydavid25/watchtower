@@ -1,4 +1,4 @@
-# 🛰️ Watchtower — Multi-Site CCTV/NVR Uptime Monitor
+# 🛰️ Hikvision Watchtower — Multi-Site CCTV/NVR Uptime Monitor
 
 **Resilient, false-positive-resistant availability monitoring for Hikvision ISAPI NVRs, with debounced Telegram alerting.**
 
